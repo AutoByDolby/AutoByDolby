@@ -31,7 +31,7 @@ I have hands-on experience in **API automation, integration testing, and manual 
 ### ☁️ Cloud & DevOps
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Cosmos DB](https://img.shields.io/badge/Azure Cosmos DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/AZURE_COSMOS_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 📋 Test Management & Collaboration
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
