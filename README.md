@@ -98,7 +98,6 @@ I have hands-on experience in **API automation, integration testing, and manual 
 
 | Certification | Issuer |
 |---|---|
-| 🏅 AZ-900: Microsoft Azure Fundamentals | Microsoft |
 | 🏅 Selenium Basic Automation | Infosys |
 | 🏅 Selenium Advanced Automation | Infosys |
 | 🏅 Java SE8 Developer | Infosys |
